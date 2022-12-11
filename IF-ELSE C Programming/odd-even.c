@@ -6,9 +6,9 @@ int main () {
     printf("Please insert a number: ");
     scanf("%d", &a);
 
-    if (a%2 == 0) {
+    if (a%2 == 0) 
         printf("The number %d is Even \n", a);
-    } else {
+    else
         printf("The number %d is Odd \n", a);
-    }
+    
 }

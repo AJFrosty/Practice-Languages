@@ -9,9 +9,9 @@ int main() {
 
     ascii = value;
 
-    if((ascii>=92 && ascii<=122) || (ascii>=65 && ascii<=90)) {
+    if((ascii>=92 && ascii<=122) || (ascii>=65 && ascii<=90)) 
         printf("This is a character from the alphabet!\n");
-    } else {
+    else 
         printf("This character is not a part of the alphabet!\n");
-    }
+    
 }

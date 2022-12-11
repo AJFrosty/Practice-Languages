@@ -9,13 +9,13 @@ int main() {
 
     ascii = value;
 
-    if(ascii>=92 && ascii<=122) {
+    if(ascii>=92 && ascii<=122) 
         printf("The character %c is a common letter\n", value);
-    } else if (ascii>=65 && ascii<=90) {
+    else if (ascii>=65 && ascii<=90) 
         printf("The character %c is a capital letter\n", value);
-    } else if ((ascii>=32 && ascii<=47) || (ascii>=58 && ascii<=64) || (ascii>=91 && ascii<=96) || (ascii>=123 && ascii<=126)) {
+    else if ((ascii>=32 && ascii<=47) || (ascii>=58 && ascii<=64) || (ascii>=91 && ascii<=96) || (ascii>=123 && ascii<=126)) 
         printf("The character %c is a special character\n", value);
-    } else {
+    else 
         printf("Bruh what even is that-\n");
-    }
+    
 }

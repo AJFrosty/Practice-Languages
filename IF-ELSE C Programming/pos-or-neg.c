@@ -5,11 +5,11 @@ int main() {
     printf("Please enter any number: ");
     scanf("%d", &a);
 
-    if (a>0) {
+    if (a>0) 
         printf("The number %d is Positive\n", a);
-    } else if (a<0) {
+     else if (a<0) 
         printf("The number %d is Negative \n", a);
-    } else {
+     else 
         printf("Bruh that's 0...");
-    }
+    
 }
