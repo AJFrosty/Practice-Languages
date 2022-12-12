@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test the greatest value of 3 numbers
 int main() {
     int a,b,c;
 

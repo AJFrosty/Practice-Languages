@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to find the average of 5 grades and output their final Letter Grade according to a scheme
 int main () {
     float grades[5];
     float response, total, average;

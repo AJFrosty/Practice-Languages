@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
+//Program to find simple interest and compound interest
 int main() {
     float p,r,t,si,com;
     int response;

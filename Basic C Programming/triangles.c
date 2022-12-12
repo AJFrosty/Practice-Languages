@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+//Program to find the area of a triangle
+
 int main(void) {
     //Basic Area of a Triangle
     int answer; 

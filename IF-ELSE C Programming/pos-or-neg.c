@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if an interger is positive or negative
 int main() {
     int a;
     printf("Please enter any number: ");

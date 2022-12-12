@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//program to find the LCM of 2 numbers
 int main() {
     int n1,n2,lcm, factor=1;
 

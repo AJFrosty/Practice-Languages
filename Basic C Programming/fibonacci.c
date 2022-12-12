@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to list a certain amount of numbers in the fibonacci sequence
 int main() {
     int num[25];
     int response;

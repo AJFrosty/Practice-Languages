@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to find the factorial of an interger
 int factorial() {
     int number,factorial=1;
     

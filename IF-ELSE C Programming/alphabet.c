@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if an inserted character is a part of the alphabet
 int main() {
     char value;
     int ascii;

@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if the inserted character is a Vowel or not
 int main() {
     char value;
 

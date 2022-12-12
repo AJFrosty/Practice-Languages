@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if someone is eligible to vote
 int main()
 {
      int age;

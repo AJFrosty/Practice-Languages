@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if an inserted character is Capital, Common or Special Character
 int main() {
     char value;
     int ascii;

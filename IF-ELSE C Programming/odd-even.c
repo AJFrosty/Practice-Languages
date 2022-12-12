@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to test if an interger is odd or even
 int main () {
     int a;
     

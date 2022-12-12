@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Program to find the first 3 index of an interger
 int main() {
     int n,p1,p2;
 

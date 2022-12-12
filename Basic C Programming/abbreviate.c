@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Prints an abbreviation to a person's full name
 int main() {
     char fname[25],lname[25],mname[25],abbrev;
 
