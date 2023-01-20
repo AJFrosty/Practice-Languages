@@ -9,4 +9,5 @@ def introduction():
         'color': input3
     }
     print(f"My name is {person['name']}, I am {person['age']} Old and my favorite color is {person['color']} ")
+    print(person.keys())
 introduction()
