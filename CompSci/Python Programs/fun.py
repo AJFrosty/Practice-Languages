@@ -1,0 +1,22 @@
+
+print("FFFFF")
+print("FF")
+print("FF")
+print("FF")
+print("FFFFF")
+print("FF")
+print("FF")
+print("FF")
+print("FF \n")
+
+print("U   U")
+print("U   U")
+print("U   U")
+print("U   U")
+print("UUUUU\n")
+
+print("N   N")
+print("NN  N")
+print("N N N")
+print("N  NN")
+print("N   N")
