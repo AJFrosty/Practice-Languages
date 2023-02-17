@@ -6,8 +6,7 @@ if sqrt >= 0:
     r2 = ((-1*b) - (sqrt)**(1/2))/(2*a)
     if r1 == r2:
         print("This is a double root")
-        print("Coefficient of x^2 is",a,"Coefficient of x is",b," and the Y intercept is",c)
-        print("The roots of the quadratic are:", r1)
+        print("The root of the quadratic is:", r1)
     else:
         print("Coefficient of x^2 is",a,"Coefficient of x is",b," and the Y intercept is",c)
         print("The roots of the quadratic are:", r1,r2)
